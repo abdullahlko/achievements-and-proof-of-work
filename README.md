@@ -43,7 +43,7 @@ achievements-and-proof-of-work/
 │       └── Award.jpg
 │
 ├── Hackathons/
-│   ├── Smart-India-Hackathon-2025-Internal-Edition-CODEVATIVE/
+│   ├── Smart-India-Hackathon-2025-Internal-Edition/
 │   │   ├── Prize-Cheque.jpg
 │   │   ├── Team-Photo.jpg
 │   │   ├── Event.jpg
@@ -52,6 +52,9 @@ achievements-and-proof-of-work/
 │   ├── CodeSprint-One-Day-Hackathon-2026/
 │   │   └── Certificate-of-Achievement-3rd-Place.pdf
 │   │
+│   ├── Google-GenAI-Exchange-Hackathon/
+│   │   └── Certificate-of-Participation.png
+│   │
 │   ├── Google-Solution-Challenge-2025/
 │   │   ├── Prototype-Submission.pdf
 │   │   └── Certificate-of-Participation.pdf
@@ -59,8 +62,11 @@ achievements-and-proof-of-work/
 │   ├── ByteQuest-Hackathon-2026/
 │   │   └── Presentation.pptx
 │   │
-│   └── InnovWave/
-│       └── Manayush-Presentation.pptx
+│   ├── InnovWave/
+│   │   └── Manayush-Presentation.pptx
+│   │
+│   └── Mineral-Forecasting-IIT-ISM-Dhanbad-Hackathon/
+│       └── Technical-Analysis-Report-Round-1.docx
 │
 ├── Open-Source/
 │   ├── GirlScript-Summer-of-Code-2025/
@@ -74,11 +80,14 @@ achievements-and-proof-of-work/
 │   │
 │   └── Open-Source-Connect-Global-2026/
 │       ├── Certificate-of-Participation-Technical-Workshop.pdf
-│       └── Certificate-of-Participation-Contributor.pdf
+│       ├── Certificate-of-Participation-Contributor.pdf
+│       └── Contributor-Badge.png
 │
 ├── Certifications/
 │   ├── Google-GenAI-Study-Jams-2024/
 │   │   ├── Certificate-of-Completion.pdf
+│   │   ├── Group-Photo.jpg
+│   │   ├── Study-Jams-2024-Completion.jpg
 │   │   └── Skill-Badges/
 │   │       ├── 1-The-Basics-of-Google-Cloud-Compute.jpg
 │   │       ├── 2-Get-Started-with-Cloud-Storage.jpg
